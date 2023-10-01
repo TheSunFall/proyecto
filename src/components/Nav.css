@@ -1,0 +1,17 @@
+.navprincipal {
+    color: #f1f8f2;
+    background-color: #3f3a81;
+    display: flex;
+    justify-content: flex-end;
+    align-content: space-between;
+    padding: 0.5rem 2rem;
+}
+.navprincipal div{
+    padding: 0.75rem 1rem;
+    border-radius: 2.5%;
+    font-weight: 500;}
+.navprincipal div:hover{
+    background-color: #c89636;
+    cursor: pointer;
+    box-shadow: black;
+}
